@@ -5,10 +5,15 @@
  */
 package Starter;
 
+import Domain.Console;
+
 /**
  *
  * @author Bjarke PC
  */
 public class Starter {
-    
+    public static void main(String[] args){
+        Console ps1 = new Console("PlayStation 1", "Sony");
+                
+    }
 }
