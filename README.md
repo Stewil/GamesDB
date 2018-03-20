@@ -2,13 +2,13 @@
 A database program for games
 
 **Packages:**
-* add Gluecode/Starter package
-* add Acquaintance
-* add GUI
+* -add Gluecode/Starter package-
+* -add Acquaintance-
+* -add GUI-
 
 **Classes:**
 * We need new classes for games in the domain package
-* the console class needs attributes, constructor, and getter/setters for those attributes, where needed.
+* -the console class needs attributes, constructor, and getter/setters for those attributes, where needed.-
 
 **Various:**
 * Remember to add comments to explain methods, and functions
