@@ -13,7 +13,7 @@ import Domain.Console;
  */
 public class Starter {
     public static void main(String[] args){
-        Console ps1 = new Console("PlayStation 1", "Sony");
-                
+        Console ps1 = new Console("PlayStation 1", "Sony", 6000);
+        System.out.println(ps1.toString());        
     }
 }
