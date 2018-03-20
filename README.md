@@ -2,8 +2,8 @@
 A database program for games
 
 Packages:
-* add gluecode
-* add interfaces
+* add Gluecode/Starter package
+* add Acquaintance
 * add GUI
 
 Classes:
