@@ -30,7 +30,7 @@ public class DatabaseRemote {
     private static final String user = "dmztduup";
     private static final String password = "bH3sPoAsfFDfBqJqeZOztV4wAEhui8X2";
     
-    
+    /* Method to establish a connection to the PostgreSQL server */
     private static void establishConnection(){
         try {
             /* Establish a connection with the database, using the address,
